@@ -170,7 +170,7 @@ Ideas for continued learning:
 - **Testing**: Add pytest unit tests
 - **CI/CD**: GitHub Actions workflow
 - **Docker**: Containerize the application
-
+Testing the git pull
 ## Resources
 
 - [NumPy Documentation](https://numpy.org/doc/)
