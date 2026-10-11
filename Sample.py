@@ -11,7 +11,7 @@ print(' I am Rohith, and I am a Developer')
 print('How old are you?')
 
 
-def get_weather():
+def fetch_weather():
     return "Sunny"
 
 
